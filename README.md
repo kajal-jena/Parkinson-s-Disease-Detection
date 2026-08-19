@@ -31,8 +31,8 @@ This project uses Machine Learning to classify whether a person has Parkinson's 
 > This project is for **educational purposes only**. It is **not a medical diagnostic tool**. Always consult a qualified medical professional for clinical diagnosis.
 
 ## 👩‍💻 Author
-**Ankita**  
+**Kajal Jena**  
 B.Tech CSE (Data Science) | Vignan Institute of Technology and Management, Berhampur, Odisha  
-Batch 2022-2026 | CGPA: 8.6
+Batch 2022-2026 | CGPA: 8.3
 
 <p align="center">Made with ❤️ for early detection of Parkinson's Disease | VJIT 2026</p>
